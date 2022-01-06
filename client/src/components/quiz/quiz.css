@@ -1,0 +1,10 @@
+.quiz-container {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.quiz-submit-button {
+  align-self: center;
+}

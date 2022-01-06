@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #282c34;
+  color: white;
+}
+
+.content {
+  min-height: 80vh;
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "Geography",
+    "questions": [  {
+      "id": "1",
+      "text": "Which of these U.S. states does NOT border Canada?",
+      "choices": ["Minnesota", "Indiana", "Alaska", "Maine"],
+      "answer": "Indiana"
+    }, {
+      "id": "2",
+      "text": "Which of these countries was NOT a part of the Soviet Union?",
+      "choices": ["Belarus", "Ukraine", "Poland", "Georgina"],
+      "answer": "Poland"
+    }, {
+      "id": "3",
+      "text": "Which of these cities is NOT a national capital?",
+      "choices": ["Prague", "Cario", "Bangkok", "Sydney"],
+      "answer": "Sydney"
+    }, {
+      "id": "4",
+      "text": "Which of these countries was NEVER part of the British Empire?",
+      "choices": ["Kenya", "Thailand", "New Zealand", "Ireland"],
+      "answer": "Thailand"
+    }, {
+      "id": "5",
+      "text": "Which one of these countries is NOT in Central America?",
+      "choices": ["Honduras", "Suriname", "Belize", "Panama"],
+      "answer": "Suriname"
+    }]
+  }, {
+    "subject": "History",
+    "questions": [  {
+      "id": "6",
+      "text": "Which of these countries did the Soviet Union NEVER invade?",
+      "choices": ["Sweden", "Finland", "Afghanistan", "Poland"],
+      "answer": "Sweden"
+    }, {
+      "id": "7",
+      "text": "Who was the first person to orbit the Earth?",
+      "choices": ["Valentina Tereshkova", "John Glenn", "Yuri Gagarin", "Neil Armstrong"],
+      "answer": "Yuri Gagarin"
+    }, {
+      "id": "8",
+      "text": "Which of these cities was NOT founded by the Romans?",
+      "choices": ["Alexandria", "London", "Cologne"],
+      "answer": "Alexandria"
+    }, {
+      "id": "9",
+      "text": "Where did Zoroastrianism originate?",
+      "choices": ["Egypt", "Persia", "India", "South America"],
+      "answer": "Thailand"
+    }, {
+      "id": "10",
+      "text": "Which of these writers was NOT English?",
+      "choices": ["Charles Dickens", "Agatha Christie", "Oscar Wilde", "Jane Austen"],
+      "answer": "Oscar Wilde"
+    }]
+  }
+]
